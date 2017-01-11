@@ -1,0 +1,17 @@
+Instructions for MybookingpalRestful:
+
+Instructions:
+
+1. Make sure you Have VS2012 installed
+2. Go to Options>Extensions and Updates and install:
+	-Nunit test Adapter
+	-Specflow
+3. Restart VS
+4. In open solution start build (nuget packages should be restored now)
+
+
+
+For MybookingpalRestful only
+
+5. Open Test Explorer window (Test>Windows>Test Explorer). A good sign is that this window is not empty.
+6. Run all tests.

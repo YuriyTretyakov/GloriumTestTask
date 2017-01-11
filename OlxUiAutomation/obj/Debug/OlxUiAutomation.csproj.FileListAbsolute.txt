@@ -1,0 +1,11 @@
+C:\Work\Glorium\OlxUiAutomation\bin\Debug\OlxUiAutomation.exe.config
+C:\Work\Glorium\OlxUiAutomation\bin\Debug\OlxUiAutomation.exe
+C:\Work\Glorium\OlxUiAutomation\bin\Debug\OlxUiAutomation.pdb
+C:\Work\Glorium\OlxUiAutomation\bin\Debug\WebDriver.dll
+C:\Work\Glorium\OlxUiAutomation\bin\Debug\WebDriver.Support.dll
+C:\Work\Glorium\OlxUiAutomation\bin\Debug\WebDriver.xml
+C:\Work\Glorium\OlxUiAutomation\bin\Debug\WebDriver.Support.xml
+C:\Work\Glorium\OlxUiAutomation\obj\Debug\OlxUiAutomation.exe
+C:\Work\Glorium\OlxUiAutomation\obj\Debug\OlxUiAutomation.pdb
+C:\Work\Glorium\OlxUiAutomation\bin\Debug\App.config
+C:\Work\Glorium\OlxUiAutomation\obj\Debug\OlxUiAutomation.csprojResolveAssemblyReference.cache

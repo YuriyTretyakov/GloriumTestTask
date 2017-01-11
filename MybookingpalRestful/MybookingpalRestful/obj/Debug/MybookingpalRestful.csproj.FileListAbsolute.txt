@@ -1,0 +1,11 @@
+C:\Work\Glorium\MybookingpalRestful\MybookingpalRestful\bin\Debug\MybookingpalRestful.pdb
+C:\Work\Glorium\MybookingpalRestful\MybookingpalRestful\bin\Debug\Newtonsoft.Json.dll
+C:\Work\Glorium\MybookingpalRestful\MybookingpalRestful\bin\Debug\Newtonsoft.Json.xml
+C:\Work\Glorium\MybookingpalRestful\MybookingpalRestful\obj\Debug\MybookingpalRestful.csprojResolveAssemblyReference.cache
+C:\Work\Glorium\MybookingpalRestful\MybookingpalRestful\obj\Debug\MybookingpalRestful.pdb
+C:\Work\Glorium\MybookingpalRestful\MybookingpalRestful\bin\Debug\nunit.framework.dll
+C:\Work\Glorium\MybookingpalRestful\MybookingpalRestful\bin\Debug\TechTalk.SpecFlow.dll
+C:\Work\Glorium\MybookingpalRestful\MybookingpalRestful\bin\Debug\nunit.framework.xml
+C:\Work\Glorium\MybookingpalRestful\MybookingpalRestful\bin\Debug\MybookingpalRestful.dll.config
+C:\Work\Glorium\MybookingpalRestful\MybookingpalRestful\bin\Debug\MybookingpalRestful.dll
+C:\Work\Glorium\MybookingpalRestful\MybookingpalRestful\obj\Debug\MybookingpalRestful.dll
